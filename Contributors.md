@@ -14,7 +14,7 @@ Follow this template to add yourself as a contributor.
 
  **Github** - [username] (link to your github profile)
 
- Please add '---' these dashes at the end of yor entry, this will separate others profiles from yours. 
+ Please add '---' these dashes at the end of your entry, this will separate others profiles from yours. 
 
  --- 
  Example : 
