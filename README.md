@@ -58,7 +58,7 @@ git checkout -b add-alonzo-church
 
 ### Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file. Also choose your favourite language folder and add a program that prints `Hello my name is John.` and save it.  
 
 If you go to the project directory on your cli and execute the command `git status`, you'll see there are changes.
 
