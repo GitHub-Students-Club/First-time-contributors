@@ -1,4 +1,4 @@
-# Open-Source-Contribution
+# First-Contribution
 Creating a fork is producing a personal copy of someone else's project. Forks act as a sort of bridge between the original repository and your personal copy.
 
 To fork a repository, in the top-right corner of the page, click <b>Fork</b>.
