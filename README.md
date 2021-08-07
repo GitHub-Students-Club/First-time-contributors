@@ -5,5 +5,5 @@ To fork a repository, in the top-right corner of the page, click <b>Fork</b>.
 
 After forking this repository, you can make some changes to the project, and submit a <a href="https://github.com/GitHub-Students-Club/First-time-contributors/pulls">Pull Request</a> as practice.
 
-<img alt="PIC" src="fork_button.jpg" />
+<img alt="PIC" src="fork_button.jpg" width="600"/>
 
