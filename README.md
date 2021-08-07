@@ -65,7 +65,7 @@ If you go to the project directory on your cli and execute the command `git stat
 Add those changes to the branch you just created using the `git add` command:
 
 ```
-git add Contributors.md
+git add .
 ```
 
 Now commit those changes using the `git commit` command:
