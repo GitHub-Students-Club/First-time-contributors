@@ -21,7 +21,7 @@ Follow this template to add yourself as a contributor.
 
  **Name** - Subhasmita Swain
 
- **Languages** - Java, C/C++, Python, Go
+ **Languages** - Java, C/C++, Python, go, Haskell 
 
  **Favourite IDEs** - VS Code, IntelliJ Idea, Atom
  
