@@ -37,7 +37,8 @@ Follow this template to add yourself as a contributor.
 
  **Favourite IDEs** - VS code.
 
- **Twitter** - [@LaxmanKohar2] (https://twitter.com/LaxmanKohar2)
+ **Twitter** - [@LaxmanKohar2](https://twitter.com/LaxmanKohar2)
 
- **Github** - [Laxmankohar] (https://github.com/Laxmankohar)
+ **Github** - [Laxmankohar](https://github.com/Laxmankohar)
 
+---
