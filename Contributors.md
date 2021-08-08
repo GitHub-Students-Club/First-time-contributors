@@ -31,3 +31,15 @@ Follow this template to add yourself as a contributor.
 
  ---
 
+
+ **Name** - Md Mohtashim Meeran
+
+ **Languages** - Java, C/C++, Python, My SQL
+
+ **Favourite IDEs** - VS Code, Eclipse, Code Blocks
+ 
+ **Twitter** - 
+
+ **Github** - [meeran2021](https://github.com/meeran2021)
+
+ ---
