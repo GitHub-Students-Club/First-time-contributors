@@ -19,15 +19,15 @@ Follow this template to add yourself as a contributor.
  --- 
  Example : 
 
- **Name** - Subhasmita Swain
+ **Name** - Anjali Singh
 
- **Languages** - Java, C/C++, Python, Go
+ **Languages** - Java, C
 
- **Favourite IDEs** - VS Code, IntelliJ Idea, Atom
+ **Favourite IDEs** - VS Code, Eclipse, Atom
  
- **Twitter** - [@iam_subhasmita](https://twitter.com/iam_subhasmita)
+ **LinkedIn** - [Anjali Singh](https://www.linkedin.com/in/anjali-singh-56248217a/)
 
- **Github** - [SubhasmitaSw](https://github.com/SubhasmitaSw)
+ **Github** - [Singhanjali8](https://github.com/anjalisingh8)
 
  ---
 
