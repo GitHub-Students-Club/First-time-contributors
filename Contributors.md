@@ -31,3 +31,13 @@ Follow this template to add yourself as a contributor.
 
  ---
 
+ **Name** - Laxman kohar .
+
+ **Languages** - java, python, c/c++.
+
+ **Favourite IDEs** - VS code.
+
+ **Twitter** - [@LaxmanKohar2] (https://twitter.com/LaxmanKohar2)
+
+ **Github** - [Laxmankohar] (https://github.com/Laxmankohar)
+
