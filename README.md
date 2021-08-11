@@ -1,4 +1,4 @@
-## First-time-contributors
+### First-time-contributors
 
 If you don't have git in your machine, download it from [here](https://git-scm.com/downloads). 
 
