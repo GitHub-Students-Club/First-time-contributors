@@ -43,3 +43,14 @@ Follow this template to add yourself as a contributor.
  **Github** - [meeran2021](https://github.com/meeran2021)
 
  ---
+
+ **Name** - Harshit Kesharwani
+
+ **Languages** - Python, C
+
+ **Favourite IDEs** - jupitor notebook, Pycharm
+ 
+ **LinkedIn** - [Harshit Kesharwani](https://www.linkedin.com/in/harshitkesharwani)
+
+ **Github** - [Singhanjali8](https://github.com/harshit-kesharwani)
+---
