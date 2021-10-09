@@ -4,17 +4,17 @@
 Follow this template to add yourself as a contributor.
 
 
- **Name** - Write your name.
+ **Name** - Pradeep Bhandari
 
- **Languages** - Mention your tech stack.
+ **Languages** - Java
 
- **Favourite IDEs** - Mention your favourite IDE.
+ **Favourite IDEs** - IntelliJ
 
- **Twitter** - [username] (link to your twitter handle)
+ **Twitter** - 
 
- **Github** - [username] (link to your github profile)
+ **Github** - [pradeep-bhandari] (https://github.com/pradeep-bhandari/pradeep-bhandari.git)
 
- Please add '---' these dashes at the end of your entry, this will separate others profiles from yours. 
+ --- 
 
  --- 
  Example : 
