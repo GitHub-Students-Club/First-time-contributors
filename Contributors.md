@@ -44,6 +44,16 @@ Follow this template to add yourself as a contributor.
 
  ---
 
+ **Name** - Hrishikesh pandey
+
+ **Languages** - Java,Python,My SQL,HTML
+
+ **Favourite IDEs** - VS Code , Code Blocks
+
+ **Github** - [Hrishi000001](https://github.com/Hrishi000001/Hrishi000001.git)
+
+ ---
+
  **Name** - Harshit Kesharwani
 
  **Languages** - Python, C
