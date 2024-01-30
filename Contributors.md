@@ -44,6 +44,18 @@ Follow this template to add yourself as a contributor.
 
  ---
 
+**Name** - Firdaus Razali
+
+ **Languages** - Java, C++, PHP, Python, HTML, CSS, JavaScript
+
+ **Favourite IDEs** - IntelliJ IDEA, VS Code 
+ 
+ **LinkedIn** - [Firdaus Razali](https://www.linkedin.com/in/muhamadfirdausmohdrazali)
+
+ **Github** - [ausrazali](https://github.com/ausrazali)
+
+ ---
+
  **Name** - Harshit Kesharwani
 
  **Languages** - Python, C
